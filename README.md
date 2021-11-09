@@ -2,9 +2,9 @@
 
 
 
+<img align="right" height="auto" width="200" src="https://github.com/wowramon/wowramon/blob/master/img/IconPage2.png"/>
 
 ✨look at my first EDA: https://github.com/wowramon/EDA_UsedCars
-
 
 
 Here are some ideas to get you started:
