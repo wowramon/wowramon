@@ -1,7 +1,7 @@
 ### Hi there, Ramon Hernandez here!👋
 
 
-**wowramon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 ✨look at my first EDA: https://github.com/wowramon/EDA_UsedCars
 
@@ -10,11 +10,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...https://medium.com/@alejandro4801/como-rotar-un-objeto-fijo-aplicando-trigonometr%C3%ADa-unity-c-68389870abde
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- 📫 How to reach me: ...https://www.linkedin.com/in/ramon-hernandez-a50b75163/
+
 
