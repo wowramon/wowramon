@@ -9,8 +9,8 @@
 - 🏹 challenges faced : challenge from Meli - https://github.com/wowramon/TestML  
       challenge from platzi - https://github.com/wowramon/Hangman
 
-- 🔭 I’m currently working on ...https://medium.com/@alejandro4801/como-rotar-un-objeto-fijo-aplicando-trigonometr%C3%ADa-unity-c-68389870abde
+- 🔭 I’m currently working on ...https://medium.com/@alejandro4801/asistente-de-helpdesk-cac952f39940
 
 - 📫 How to reach me: ...https://www.linkedin.com/in/ramon-hernandez-a50b75163/
 
-
+- 📃 Medium Post: ... https://medium.com/@alejandro4801/como-rotar-un-objeto-fijo-aplicando-trigonometr%C3%ADa-unity-c-68389870abde
